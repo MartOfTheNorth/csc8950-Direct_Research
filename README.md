@@ -34,6 +34,7 @@
 \frac{3}{4}
 
 <img src="https://latex.codecogs.com/svg.latex?X=A\cdot S;" title="XAS" />
+<img src="http://latex.codecogs.com/gif.latex?X=A\cdot S;" border="0"/>
 
 
 # Part 3 - Experiment
