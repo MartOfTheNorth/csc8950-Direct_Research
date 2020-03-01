@@ -35,7 +35,7 @@
 
 <img src="https://latex.codecogs.com/svg.latex?X=A \cdot S;" title="XAS" />
 _X = A * S_
-<img src="http://chart.apis.google.com/chart?cht=tx&chl=X=A\\dotS;" title="XAS" />
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=X=A\dotS;" title="XAS" />
 
 # Part 3 - Experiment
 
