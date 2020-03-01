@@ -32,7 +32,7 @@
 ####<img src="https://latex.codecogs.com/svg.latex?X%3DA+%5Cdot+S+%3B++Z%3DW+%5Cdot+X" title="" />
 
 
-<img src="http://latex.codecogs.com/gif.latex?X=A \cdot S ;" border="0"/>
+<img src="http://latex.codecogs.com/gif.latex?X=A$\cdot$S;" border="0"/>
 
 
 # Part 3 - Experiment
