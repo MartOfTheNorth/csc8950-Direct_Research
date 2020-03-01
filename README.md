@@ -33,7 +33,7 @@
 
 \frac{3}{4}
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\left x \right" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X=A\dotS" title="XAS" />
 
 # Part 3 - Experiment
 
