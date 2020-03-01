@@ -1,8 +1,5 @@
-# csc8950-Direct_Research
+# csc8950-Direct_Research:Features analyses to treatment in mental disorders with machine learning
 
-Welcome to csc8950 reseach!
-
-# Reseach topic: Features analyses to treatment in mental disorders with machine learning
 
 ## Machine Learning reseach paper collection
 [https://github.com/MartOfTheNorth/Panacea_Lab/wiki/Welcome-to-the-Panacea_Lab-wiki!](https://github.com/MartOfTheNorth/Panacea_Lab/wiki/Welcome-to-the-Panacea_Lab-wiki!)
