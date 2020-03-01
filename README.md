@@ -33,7 +33,7 @@
 
 \frac{3}{4}
 
-<img src="https://latex.codecogs.com/svg.latex?X=A \cdot S;" title="XAS" />
+<img src="https://latex.codecogs.com/svg.latex?X=A \\cdot S;" title="XAS" />
 _X = A * S_
 <img src="http://chart.apis.google.com/chart?cht=tx&chl=X=A\\dotS;" title="XAS" />
 X=A&middot;S;
