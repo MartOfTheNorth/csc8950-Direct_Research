@@ -32,7 +32,7 @@
 - <img src="http://latex.codecogs.com/gif.latex?X=A$\cdot$S; Z=W\cdotX;" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?If  W=A^{-1}, then Z=S;" border="0" />
 ###### Maximization;
-- <img src="http://latex.codecogs.com/gif.latex?max\{H(Y)\}=-E[\ln f_y (Y)];" border="0" />
+- <img src="http://latex.codecogs.com/gif.latex?max\{H(Y)\}=-E[\ln{f_y}(Y)];" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?Y=\frac{1}{1+e^{-U}},U=W\cdot X+W_0" border="0" />
 ##### Parallel 
 
