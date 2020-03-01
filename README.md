@@ -24,8 +24,10 @@
 #### Goal: To link the genomic fators to brain functions.
 #### Solve: 
 - 1) Revealing brain functions from fMRI
-- 2) Identifying genetic influences SNP data
+- 2) Identifying genetic influences from SNP data
 - 3) Finding relationship between brain functions and genetics.
+#### Methodology: Parallel Independent Component Analysis (Parallel ICA). The common ICA is used in many reseaches to reveal factors without prior knowledge of the factor properties. Principle Component Analysis (PCA) is always used before proceeding ICA because of its advancetage to reduce the dimension of matrix.
+
 
 
 # Part 3 - Experiment
