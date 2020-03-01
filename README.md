@@ -39,7 +39,7 @@
 ##### Parallel ICA Structure
 - Paralled ICA is to solve all three objectives simultaneously.
 - <img src="http://latex.codecogs.com/gif.latex?Corr(A_{1i},A_{2j}=\frac{Cov(A_{1i},A_{2j})}{Std(A_{1i})Std(A_{2j})};" border="0" />
-- <img src="http://latex.codecogs.com/gif.latex?Corr(A_{1i},A_{2j}=\frac{Cov(A_{1i},A_{2j})}{Std(A_{1i})$\cdot$Std(A_{2j})};" border="0" />
+- <img src="http://latex.codecogs.com/gif.latex?A_1=W_1^{-1};" border="0" />
 # Part 3 - Experiment
 
 # Part 4 - Results
