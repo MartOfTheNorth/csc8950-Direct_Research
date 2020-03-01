@@ -31,6 +31,7 @@
 
 ####<img src="https://latex.codecogs.com/svg.latex?X%3DA+%5Cdot+S+%3B++Z%3DW+%5Cdot+X" title="" />
 
+\frac{3}{4}
 # Part 3 - Experiment
 
 # Part 4 - Results
