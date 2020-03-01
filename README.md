@@ -33,7 +33,7 @@
 
 \frac{3}{4}
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;X=A\cdotS" title="XAS" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;X=A \cdot S" title="XAS" />
 
 # Part 3 - Experiment
 
