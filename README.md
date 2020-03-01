@@ -22,9 +22,10 @@
 ### 1. Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
 
 #### Goal: To link the genomic fators to brain functions.
-#### Solve: 1) Revealing brain functions from fMRI
-#           2) Identifying genetic influences SNP data
-#           3) Finding relationship between brain functions and genetics.
+#### Solve: 
+- 1) Revealing brain functions from fMRI
+- 2) Identifying genetic influences SNP data
+- 3) Finding relationship between brain functions and genetics.
 
 
 # Part 3 - Experiment
