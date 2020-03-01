@@ -37,6 +37,10 @@
 _X = A * S_
 <img src="http://chart.apis.google.com/chart?cht=tx&chl=X=A\dotS;" title="XAS" />
 X=A&middot;S;
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+(E=mc^2)
+
 # Part 3 - Experiment
 
 # Part 4 - Results
