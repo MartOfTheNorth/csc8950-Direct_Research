@@ -33,7 +33,8 @@
 
 \frac{3}{4}
 
-<img src="https://latex.codecogs.com/svg.latex?X=A \cdot S; " title="XAS" />
+<img src="https://latex.codecogs.com/svg.latex?X=A \cdot S;" title="XAS" />
+_X = A * S_
 
 # Part 3 - Experiment
 
