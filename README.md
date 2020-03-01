@@ -35,6 +35,7 @@
 
 <img src="https://latex.codecogs.com/svg.latex?X=A \cdot S;" title="XAS" />
 _X = A * S_
+<img src="http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}" title="XAS" />
 
 # Part 3 - Experiment
 
