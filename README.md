@@ -29,7 +29,7 @@
 #### Methodology: 
 - Parallel Independent Component Analysis (Parallel ICA). The common ICA is used in many reseaches to reveal factors without prior knowledge of the factor properties. Principle Component Analysis (PCA) is always used before proceeding ICA because of its advancetage to reduce the dimension of matrix.
 
-####<img src="http://latex.codecogs.com/gif.latex?X=A$\cdot$S;" border="0" class="center" />
+- <img src="http://latex.codecogs.com/gif.latex?X=A$\cdot$S;" border="0" class="center" />
 
 
 # Part 3 - Experiment
