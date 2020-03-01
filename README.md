@@ -35,7 +35,7 @@
 - <img src="http://latex.codecogs.com/gif.latex?max\{H(Y)\}=-E[\ln{f_y}(Y)];" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?Y=\frac{1}{1+e^{-U}}," border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?U=W$\cdot$X+W_0" border="0" />
-- <img src="http://latex.codecogs.com/gif.latex?Y=\frac{1}{1+e^{-U}};U=W$\cdot$X+W_0" border="0" />
+where $f_y(y)$
 ##### Parallel 
 
 # Part 3 - Experiment
