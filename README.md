@@ -40,6 +40,10 @@
 - Paralled ICA is to solve all three objectives simultaneously.
 - <img src="http://latex.codecogs.com/gif.latex?Corr(A_{1i},A_{2j}=\frac{Cov(A_{1i},A_{2j})}{Std(A_{1i})Std(A_{2j})};" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?A_1=W_1^{-1};" border="0" />
+- where Corr is the correlation function; Cov is the covariance function. Std is the standard deviation function. i and j are indices of components.
+
+### 1. Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
+
 # Part 3 - Experiment
 
 # Part 4 - Results
