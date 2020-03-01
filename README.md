@@ -28,7 +28,7 @@
 - 3) Finding relationship between brain functions and genetics.
 #### Methodology: Parallel Independent Component Analysis (Parallel ICA). The common ICA is used in many reseaches to reveal factors without prior knowledge of the factor properties. Principle Component Analysis (PCA) is always used before proceeding ICA because of its advancetage to reduce the dimension of matrix.
 
-
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 # Part 3 - Experiment
 
