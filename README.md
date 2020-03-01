@@ -35,8 +35,10 @@
 - <img src="http://latex.codecogs.com/gif.latex?max\{H(Y)\}=-E[\ln{f_y}(Y)];" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?Y=\frac{1}{1+e^{-U}}," border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?U=W$\cdot$X+W_0" border="0" />
-where $f_y(y)$
-##### Parallel 
+- where f_y(Y) is the probability density function of Y. E is the expected value. H is the entropy function.
+##### Parallel ICA Structure
+- Paralled ICA is to solve all three objectives simultaneously.
+- <img src="http://latex.codecogs.com/gif.latex?Corr(A_{1i}, A_{2j}=\frac{Cov(A_{1i}, A_{2j})}{Std(A_{1i})\cdot Std(A_{2j})}; A_1=W_1^{-1}" border="0" />
 
 # Part 3 - Experiment
 
