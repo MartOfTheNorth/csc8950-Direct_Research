@@ -48,11 +48,31 @@
 
 ### 2.1.2. J. Chen, J. Liu and V. D. Calhoun, "Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders," in Proceedings of the IEEE, vol. 107, no. 5, pp. 912-927, May 2019. doi: 10.1109/JPROC.2019.2913145 https://ieeexplore.ieee.org/document/8710364
 
-#### Goal: 
-#### Solve: 
-- 
+#### Goal: Review of "Genotypes and Phenotypes" in imaging genetics.
+#### Solve: Observing the analysis strategies in imaging genetics. Groping them into 4 categories and reviewing "multivariate analysis methods" of each categories.
 #### Methodology: 
-##### 
+##### Category 1:Candidate genotype with candidate phenotype.
+- Univariate Analyses;
+##### Category 2:Sets of genotypes with candidate phenotype.
+- Univariate analyses with correction;
+-   GSEA
+-   GRS
+-   MDR
+-   PCA
+-   ICA
+-   Clustering
+##### Category 3:Candidate genotype with multiple imaging phenotypes.
+- Voxel-wise analyses with correction;
+-   ICA
+-   Group-ICA
+-   Tensor-ICA
+-   IVA
+##### Category 4:Sets of genotypes with multiple imaging phenotypes.
+- Mass Univariate Linear Model (MULM);
+-   PLS
+-   CCA
+-   RRR
+-   Parallel ICA
 
 #### Result
 #### Analysis and Discussion
