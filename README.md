@@ -19,7 +19,7 @@
 
 
 ## Part 2.1 Literature Review
-### 1. Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
+### 2.1.1. Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
 
 #### Goal: To link the genomic fators to brain functions.
 #### Solve: 
@@ -41,11 +41,12 @@
 - <img src="http://latex.codecogs.com/gif.latex?Corr(A_{1i},A_{2j}=\frac{Cov(A_{1i},A_{2j})}{Std(A_{1i})Std(A_{2j})};" border="0" />
 - <img src="http://latex.codecogs.com/gif.latex?A_1=W_1^{-1};" border="0" />
 - where Corr is the correlation function; Cov is the covariance function. Std is the standard deviation function. i and j are indices of components.
-##### Result
-##### Analysis and Discussion
+#### Result
+- Parallel ICA has shown a correlation of 0.38 between one fMRI component and one genetic component.
+#### Analysis and Discussion
+- There is relationship between fMRI and genetic data.
 
-
-### 2. J. Chen, J. Liu and V. D. Calhoun, "Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders," in Proceedings of the IEEE, vol. 107, no. 5, pp. 912-927, May 2019. doi: 10.1109/JPROC.2019.2913145 https://ieeexplore.ieee.org/document/8710364
+### 2.1.2. J. Chen, J. Liu and V. D. Calhoun, "Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders," in Proceedings of the IEEE, vol. 107, no. 5, pp. 912-927, May 2019. doi: 10.1109/JPROC.2019.2913145 https://ieeexplore.ieee.org/document/8710364
 
 #### Goal: 
 #### Solve: 
@@ -53,10 +54,10 @@
 #### Methodology: 
 ##### 
 
-##### Result
-##### Analysis and Discussion
+#### Result
+#### Analysis and Discussion
 
-### 3. Liu J and Calhoun VD (2014) A review of multivariate analyses in imaging genetics. Front. Neuroinform. 8:29. doi: 10.3389/fninf.2014.00029 
+### 2.1.3. Liu J and Calhoun VD (2014) A review of multivariate analyses in imaging genetics. Front. Neuroinform. 8:29. doi: 10.3389/fninf.2014.00029 
 https://www.frontiersin.org/articles/10.3389/fninf.2014.00029/full
 
 #### Goal: 
@@ -65,10 +66,10 @@ https://www.frontiersin.org/articles/10.3389/fninf.2014.00029/full
 #### Methodology: 
 ##### 
 
-##### Result
-##### Analysis and Discussion
+#### Result
+#### Analysis and Discussion
 
-### 4. L. Shen and P. M. Thompson, "Brain Imaging Genomics: Integrated Analysis and Machine Learning," in Proceedings of the IEEE, vol. 108, no. 1, pp. 125-162, Jan. 2020. 
+### 2.1.4. L. Shen and P. M. Thompson, "Brain Imaging Genomics: Integrated Analysis and Machine Learning," in Proceedings of the IEEE, vol. 108, no. 1, pp. 125-162, Jan. 2020. 
 https://ieeexplore.ieee.org/abstract/document/8886705
 
 #### Goal: 
@@ -77,8 +78,8 @@ https://ieeexplore.ieee.org/abstract/document/8886705
 #### Methodology: 
 ##### 
 
-##### Result
-##### Analysis and Discussion
+#### Result
+#### Analysis and Discussion
 
 # Part 3 - Experiment
 
