@@ -101,6 +101,30 @@ https://ieeexplore.ieee.org/abstract/document/8886705
 #### Result
 #### Analysis and Discussion
 
+### Part 2.1.5. Gazula H, Baker BT, Damaraju E, Plis SM, Panta SR, Silva RF and Calhoun VD (2018) Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity. Front. Neuroinform. 12:55. doi: 10.3389/fninf.2018.00055 
+https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
+
+#### Goal: 
+#### Solve: 
+- 
+#### Methodology: 
+##### 
+
+#### Result
+#### Analysis and Discussion
+
+### Part 2.1.6. Plis SM, Sarwate AD, Wood D, Dieringer C, Landis D, Reed C, Panta SR, Turner JA, Shoemaker JM, Carter KW, Thompson P, Hutchison K and Calhoun VD (2016) COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data. Front. Neurosci. 10:365. doi: 10.3389/fnins.2016.00365
+https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
+
+#### Goal: 
+#### Solve: 
+- 
+#### Methodology: 
+##### 
+
+#### Result
+#### Analysis and Discussion
+
 # Part 3 - Experiment
 
 # Part 4 - Results
