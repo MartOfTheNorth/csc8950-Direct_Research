@@ -115,8 +115,11 @@ Citation: Plis SM, Sarwate AD, Wood D, Dieringer C, Landis D, Reed C, Panta SR, 
 https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
 #### Goal: To solve the privacy limitation of data sharing.
-#### Solve: Purpose COINSTAC platform which is dynamic decentralized platform. COINSTAC does fill missing data, pooling opened/closed data from multiple repositories, and enable destributed computation.
-- 
+#### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
+- COINSTAC does fill missing data.
+- Pooling opened/closed data from multiple repositories.
+- Enable destributed computation.
+
 #### Methodology: 
 ##### 
 
