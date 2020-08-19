@@ -19,7 +19,9 @@
 
 
 ## Part 2.1 Literature Review
-### Part 2.1.1. Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
+### Part 2.1.1. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA.
+
+Citation:  Liu J, Pearlson G, Windemuth A, Ruano G, Perrone-Bizzozero NI, Calhoun V. Combining fMRI and SNP data to investigate connections between brain function and genetics using parallel ICA. Hum Brain Mapp. 2009;30:241–255. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20508
 
 #### Goal: To link the genomic fators to brain functions.
 #### Solve: 
@@ -48,7 +50,7 @@
 
 ### Part 2.1.2. Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders.
 
-Citation:  J. Chen, J. Liu and V. D. Calhoun, "Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders," in Proceedings of the IEEE, vol. 107, no. 5, pp. 912-927, May 2019. doi: 10.1109/JPROC.2019.2913145 https://ieeexplore.ieee.org/document/8710364
+Citation: J. Chen, J. Liu and V. D. Calhoun, "Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders," in Proceedings of the IEEE, vol. 107, no. 5, pp. 912-927, May 2019. doi: 10.1109/JPROC.2019.2913145 https://ieeexplore.ieee.org/document/8710364
 
 #### Goal: Review of "Genotypes and Phenotypes" in imaging genetics.
 #### Solve: Observing the analysis strategies in imaging genetics. Groping them into 4 categories and reviewing "multivariate analysis methods" of each categories.
