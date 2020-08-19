@@ -109,13 +109,13 @@ https://ieeexplore.ieee.org/abstract/document/8886705
 #### Result
 #### Analysis and Discussion
 
-### Part 2.1.5. Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity.
+### Part 2.1.5. COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data.
 
-Citation: Gazula H, Baker BT, Damaraju E, Plis SM, Panta SR, Silva RF and Calhoun VD (2018) Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity. Front. Neuroinform. 12:55. doi: 10.3389/fninf.2018.00055 
-https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
+Citation: Plis SM, Sarwate AD, Wood D, Dieringer C, Landis D, Reed C, Panta SR, Turner JA, Shoemaker JM, Carter KW, Thompson P, Hutchison K and Calhoun VD (2016) COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data. Front. Neurosci. 10:365. doi: 10.3389/fnins.2016.00365
+https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
-#### Goal: 
-#### Solve: 
+#### Goal: To solve the privacy limitation of data sharing.
+#### Solve: Purpose COINSTAC platform which is dynamic decentralized platform. COINSTAC does fill missing data, pooling opened/closed data from multiple repositories, and enable destributed computation.
 - 
 #### Methodology: 
 ##### 
@@ -123,10 +123,11 @@ https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
 #### Result
 #### Analysis and Discussion
 
-### Part 2.1.6. COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data.
 
-Citation: Plis SM, Sarwate AD, Wood D, Dieringer C, Landis D, Reed C, Panta SR, Turner JA, Shoemaker JM, Carter KW, Thompson P, Hutchison K and Calhoun VD (2016) COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data. Front. Neurosci. 10:365. doi: 10.3389/fnins.2016.00365
-https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
+### Part 2.1.6. Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity.
+
+Citation: Gazula H, Baker BT, Damaraju E, Plis SM, Panta SR, Silva RF and Calhoun VD (2018) Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity. Front. Neuroinform. 12:55. doi: 10.3389/fninf.2018.00055 
+https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
 
 #### Goal: 
 #### Solve: 
