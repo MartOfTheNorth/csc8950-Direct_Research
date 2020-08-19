@@ -121,7 +121,7 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 - Enable destributed computation.
 
 #### Methodology: 
-##### 
+##### For decentralized accoumplishment, COINSTAC has combined 3 existing frameworks; ViPAR, ENIGMA, and dataSHIELD in one platform.
 
 #### Result
 #### Analysis and Discussion
