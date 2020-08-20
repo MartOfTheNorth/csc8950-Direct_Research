@@ -123,17 +123,17 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 #### Methodology: 
 ##### For decentralized accoumplishment, COINSTAC has combined 3 existing frameworks; ViPAR, ENIGMA, and dataSHIELD in one platform.
 
-######ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
-######Limitation: No privacy on data.
+###### ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
+###### Limitation: No privacy on data.
 
-######ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
-######Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
+###### ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
+###### Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
 
-######dataSHIELD : Decentralized data control (More privacy control) 
-######Limitation: No privacy on data.
+###### dataSHIELD : Decentralized data control (More privacy control) 
+###### Limitation: No privacy on data.
 
-######Beacons : Decentralized data sharing via web based tool. 
-######Limitation: No privacy on data.
+###### Beacons : Decentralized data sharing via web based tool. 
+###### Limitation: No privacy on data.
 
 
 
