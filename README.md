@@ -1,8 +1,8 @@
 # csc8950-Direct_Research:Features analyses to treatment in mental disorders with machine learning
 
 
-## Machine Learning reseach paper collection
-[https://github.com/MartOfTheNorth/Panacea_Lab/wiki/Welcome-to-the-Panacea_Lab-wiki!](https://github.com/MartOfTheNorth/Panacea_Lab/wiki/Welcome-to-the-Panacea_Lab-wiki!)
+## Reseach paper collection
+[https://github.com/MartOfTheNorth/Brain_Space_Initiative](https://github.com/MartOfTheNorth/Brain_Space_Initiative)
 
 ## Contents
 ### Part 1 : Abstract       
@@ -145,6 +145,21 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
 Citation: Gazula H, Baker BT, Damaraju E, Plis SM, Panta SR, Silva RF and Calhoun VD (2018) Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity. Front. Neuroinform. 12:55. doi: 10.3389/fninf.2018.00055 
 https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
+
+#### Goal: 
+#### Solve: 
+- 
+#### Methodology: 
+##### 
+
+#### Result
+#### Analysis and Discussion
+
+
+### Part 2.1.7. Sharing privacy-sensitive access to neuroimaging and genetics data: a review and preliminary validation.
+
+Citation: Sarwate AD, Plis SM, Turner JA, Arbabshirani MR and Calhoun VD (2014) Sharing privacy-sensitive access to neuroimaging and genetics data: a review and preliminary validation. Front. Neuroinform. 8:35. doi: 10.3389/fninf.2014.00035
+https://www.frontiersin.org/articles/10.3389/fninf.2014.00035/full
 
 #### Goal: 
 #### Solve: 
