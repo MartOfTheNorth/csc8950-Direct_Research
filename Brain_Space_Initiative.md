@@ -26,6 +26,22 @@
 ## Dynamic Analysis
 
 ### Papers: 
+
+Questions and controversies in the study of time-varying functional connectivity in resting fMRI
+https://www.mitpressjournals.org/doi/full/10.1162/netn_a_00116
+
+
+Tools of the trade: Estimating time-varying connectivity patterns from fMRI data
+https://psyarxiv.com/mvqj4/
+
+
+Time-Resolved Resting-State Functional Magnetic Resonance Imaging Analysis: Current Status, Challenges, and New Directions
+https://www.liebertpub.com/doi/abs/10.1089/brain.2017.0543
+
+
+Tapping into Multi-Faceted Human Behavior and Psychopathology Using fMRI Brain Dynamics
+https://www.sciencedirect.com/science/article/pii/S0166223620301478
+
 Imaging the spontaneous flow of thought: Distinct periods of cognition contribute to dynamic functional connectivity during rest
 https://www.sciencedirect.com/science/article/abs/pii/S1053811919307207?via%3Dihub
 
