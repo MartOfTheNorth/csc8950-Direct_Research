@@ -120,6 +120,9 @@ https://www.frontiersin.org/articles/10.3389/fninf.2014.00035/full
 - Breakdown the challenge of the current methods; de-identified (aka data anonymization) on what they are and why they are not considered privacy coverage. 
 - Introduce differential privacy framework. 
 Output h = Alg(D) ∈ ∉
+Adding randomized approximation PrivAlg;
+&weierp; (PrivAlg($D) ∈ S ≤ &weierp;(PrivAlg($D') ∈ S
+ <math class=chem> Fe_2_^2+^Cr_2_O_4_</math>
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 #### Methodology: 
 ##### 
