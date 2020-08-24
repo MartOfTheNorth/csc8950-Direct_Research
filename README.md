@@ -122,11 +122,11 @@ https://www.frontiersin.org/articles/10.3389/fninf.2014.00035/full
 #### Solve: Introduce differential privacy framework. 
 -      Output h = Alg(D) ∈ ∉
 -   Adding randomized approximation PrivAlg;
--      &weierp; (PrivAlg($D) ∈ S ≤ &weierp;(PrivAlg($D') ∈ S
+-      P (PrivAlg($D) ∈ S ≤ P (PrivAlg($D') ∈ S
 -   Using laplace distribution as popolor method. There are also different methods.
 ##### Challenges of differential privacy framework.
 - However adding this randomization to protect privacy, cost is the low accuracy. 
-- Coming up with standard end-to-end differentially private analysis toolkits to allow allow researchers to write programs, for examples, PINQ (2010), Fuzz (2010), AIRAVAT (2010), GUPT (2012).
+- Coming up with standard end-to-end differentially private analysis toolkits to allow allow researchers to write programs, for examples, PINQ (2010), Fuzz (2010), AIRAVAT (2010), or GUPT (2012).
 #### Methodology: 
 ##### Perform statistical derivatives locally and share the differentially private data derivatives. Because of the injected noise causes, degradation of performance is noticable. The compomization of this challenge is to use large aggregation of large dataset. Paper demonstrated into two perspectives.
 ##### a) Estimating a mean (Laplace distribution)
@@ -187,7 +187,7 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 -   Single-shot  : 0.061375
 -   Iterative    : 0.061530
 -   Centralized  : 0.061542
-The decentralized result (single-shot and ierative) is very close to the centralized result.
+##### The decentralized result (single-shot and ierative) is very close to the centralized result.
 
 #### Analysis and Discussion
 - The main benefit of COINSTAC is to cut time and process of DUI in each organization.
