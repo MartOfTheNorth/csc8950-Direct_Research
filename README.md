@@ -133,11 +133,13 @@ https://www.frontiersin.org/articles/10.3389/fninf.2014.00035/full
 ##### b) Classification 
  <img src="https://www.frontiersin.org/files/Articles/79221/fninf-08-00035-HTML/image_m/fninf-08-00035-g001.jpg" border="0" />
 
-
-
 #### Result
-#### Analysis and Discussion
+##### The Combined classifier of multiple sites clearly show the significant advantage over single local site.
+ <img src="https://www.frontiersin.org/files/Articles/79221/fninf-08-00035-HTML/image_m/fninf-08-00035-g002.jpg" border="0" />
 
+#### Analysis and Discussion
+- Lack of DUAs would be compromised with differential privacy framework.
+- Challenge of data sharing would need to be addressed in both policy and technology sides.
 
 ### Part 2.1.6. COINSTAC: A Privacy Enabled Model and Prototype for Leveraging and Processing Decentralized Brain Imaging Data.
 
@@ -145,14 +147,8 @@ Citation: Plis SM, Sarwate AD, Wood D, Dieringer C, Landis D, Reed C, Panta SR, 
 https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
 #### Goal: To solve the privacy limitation of data sharing.
-#### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
-- COINSTAC does fill missing data.
-- Pooling opened/closed data from multiple repositories.
-- Enable destributed computation.
 
-#### Methodology: 
-##### For decentralized accoumplishment, COINSTAC has combined 3 existing frameworks; ViPAR, ENIGMA, and dataSHIELD in one platform.
-
+#### Problem: Current platforms with their limitation.
 ###### 2.1.5.1 ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
 ####### Limitation: No privacy on data.
 
@@ -165,10 +161,41 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 ###### 2.1.5.4 Beacons : Decentralized data sharing via web based tool. 
 ####### Limitation: No privacy on data.
 
+#### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
+- COINSTAC does fill missing data.
+- Pooling opened/closed data from multiple repositories.
+- Enable destributed computation.
+- Convenient and powerful web-based platform
 
+#### Methodology: 
+##### COINSTAC Model : For decentralized accoumplishment, COINSTAC has combined 3 existing frameworks; ViPAR, ENIGMA, and dataSHIELD in one platform.
+- Ease of Interaction and Collaboration
+- Decentralized Algorithms
+- Privacy Preserving Data Mining
+- Web-based End-use Platform
+
+ <img src="https://www.frontiersin.org/files/Articles/204805/fnins-10-00365-HTML/image_m/fnins-10-00365-g001.jpg" border="0" />
+
+#### Methodology: COINSTC Model
+##### COINSTAC Algorithms : 
+
+ <img src="https://www.frontiersin.org/files/Articles/204805/fnins-10-00365-HTML/image_m/fnins-10-00365-g002.jpg" border="0" />
 
 #### Result
+##### Test environments are set into two studies. Single-shot Vs Iterative. Using ridge regression model.
+- Camparing the accuracy of classification:
+-   Single-shot  : 0.061375
+-   Iterative    : 0.061530
+-   Centralized  : 0.061542
+The decentralized result (single-shot and ierative) is very close to the centralized result.
+
 #### Analysis and Discussion
+- The main benefit of COINSTAC is to cut time and process of DUI in each organization.
+- COINSTAC is not required to share raw data by concept desgin while provides the end-goal reseach purpose.
+- Provide ability to re-run and re-analisis quickly.
+- Support all main OSs including mobile devices.
+- COINSTAC meets all envision goals.
+
 
 
 ### Part 2.1.7. Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity.
