@@ -115,17 +115,25 @@ https://ieeexplore.ieee.org/abstract/document/8886705
 Citation: Sarwate AD, Plis SM, Turner JA, Arbabshirani MR and Calhoun VD (2014) Sharing privacy-sensitive access to neuroimaging and genetics data: a review and preliminary validation. Front. Neuroinform. 8:35. doi: 10.3389/fninf.2014.00035
 https://www.frontiersin.org/articles/10.3389/fninf.2014.00035/full
 
-#### Goal: To review some literature on 1) differential privacy, 2) a measuring framework for privacy loss, and 3) demonstrating this framework.
-#### Solve: 
-- Breakdown the challenge of the current methods; de-identified (aka data anonymization) on what they are and why they are not considered privacy coverage. 
-- Introduce differential privacy framework. 
-Output h = Alg(D) ∈ ∉
-Adding randomized approximation PrivAlg;
-&weierp; (PrivAlg($D) ∈ S ≤ &weierp;(PrivAlg($D') ∈ S
- <math class=chem> Fe_2_^2+^Cr_2_O_4_</math>
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+#### Goal: To review some literature on 1) differential privacy, 2) a measuring framework for privacy loss, and 3) demonstrating this framework. Describe how differential privacy is used in Neuroinformatics.
+
+#### Problem: Breakdown the challenge of the current methods; de-identified (aka data anonymization) on what they are and why they are not considered privacy coverage.
+
+#### Solve: Introduce differential privacy framework. 
+-      Output h = Alg(D) ∈ ∉
+-   Adding randomized approximation PrivAlg;
+-      &weierp; (PrivAlg($D) ∈ S ≤ &weierp;(PrivAlg($D') ∈ S
+-   Using laplace distribution as popolor method. There are also different methods.
+##### Challenges of differential privacy framework.
+- However adding this randomization to protect privacy, cost is the low accuracy. 
+- Coming up with standard end-to-end differentially private analysis toolkits to allow allow researchers to write programs, for examples, PINQ (2010), Fuzz (2010), AIRAVAT (2010), GUPT (2012).
 #### Methodology: 
-##### 
+##### Perform statistical derivatives locally and share the differentially private data derivatives. Because of the injected noise causes, degradation of performance is noticable. The compomization of this challenge is to use large aggregation of large dataset. Paper demonstrated into two perspectives.
+##### a) Estimating a mean (Laplace distribution)
+##### b) Classification 
+ <img src="https://www.frontiersin.org/files/Articles/79221/fninf-08-00035-HTML/image_m/fninf-08-00035-g001.jpg" border="0" />
+
+
 
 #### Result
 #### Analysis and Discussion
