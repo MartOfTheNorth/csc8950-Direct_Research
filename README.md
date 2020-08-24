@@ -149,17 +149,17 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 #### Goal: To solve the privacy limitation of data sharing.
 
 #### Problem: Current platforms with their limitation.
-###### 2.1.5.1 ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
-####### Limitation: No privacy on data.
+###### ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
+######   Limitation: No privacy on data.
 
-###### 2.1.5.2 ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
-####### Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
+###### ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
+######   Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
 
-###### 2.1.5.3 dataSHIELD : Decentralized data control (More privacy control) 
-####### Limitation: No privacy on data.
+###### dataSHIELD : Decentralized data control (More privacy control) 
+######   Limitation: No privacy on data.
 
-###### 2.1.5.4 Beacons : Decentralized data sharing via web based tool. 
-####### Limitation: No privacy on data.
+###### Beacons : Decentralized data sharing via web based tool. 
+######   Limitation: No privacy on data.
 
 #### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
 - COINSTAC does fill missing data.
