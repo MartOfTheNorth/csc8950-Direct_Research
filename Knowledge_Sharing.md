@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=N2zK3sAtr-4
 BIDS Starter Kit
 https://github.com/bids-standard/bids-starter-kit
 
+Differential Privacy - Simply Explained
+https://www.youtube.com/watch?v=gI0wk1CXlsQ
