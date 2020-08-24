@@ -149,17 +149,17 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 #### Goal: To solve the privacy limitation of data sharing.
 
 #### Problem: Current platforms with their limitation.
-###### ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
-######   Limitation: No privacy on data.
+- ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
+#####   Limitation: No privacy on data.
 
-###### ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
-######   Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
+- ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
+#####   Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
 
-###### dataSHIELD : Decentralized data control (More privacy control) 
-######   Limitation: No privacy on data.
+- dataSHIELD : Decentralized data control (More privacy control) 
+#####   Limitation: No privacy on data.
 
-###### Beacons : Decentralized data sharing via web based tool. 
-######   Limitation: No privacy on data.
+- Beacons : Decentralized data sharing via web based tool. 
+#####   Limitation: No privacy on data.
 
 #### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
 - COINSTAC does fill missing data.
@@ -176,7 +176,6 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
  <img src="https://www.frontiersin.org/files/Articles/204805/fnins-10-00365-HTML/image_m/fnins-10-00365-g001.jpg" border="0" />
 
-#### Methodology: COINSTC Model
 ##### COINSTAC Algorithms : 
 
  <img src="https://www.frontiersin.org/files/Articles/204805/fnins-10-00365-HTML/image_m/fnins-10-00365-g002.jpg" border="0" />
@@ -187,7 +186,7 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 -   Single-shot  : 0.061375
 -   Iterative    : 0.061530
 -   Centralized  : 0.061542
-##### The decentralized result (single-shot and ierative) is very close to the centralized result.
+- The decentralized result (single-shot and ierative) is very close to the centralized result.
 
 #### Analysis and Discussion
 - The main benefit of COINSTAC is to cut time and process of DUI in each organization.
