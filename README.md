@@ -150,16 +150,16 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 
 #### Problem: Current platforms with their limitation.
 - ViPAR (Virtual Pooling and Analysis of Research data): Pull subset data to trusted centralized server via encrypted link.
--   Limitation: No privacy on data.
+##### Limitation: No privacy on data.
 
 - ENIGMA (Enhancing Neuroimaging Genetics Through Meta Analysis): Sharing summary statistics from local data.
--   Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
+##### Limitation: Time consuming due to many manuale processes. Single shot (comparing to iterate among sites).
 
 - dataSHIELD : Decentralized data control (More privacy control) 
--   Limitation: No privacy on data.
+##### Limitation: No privacy on data.
 
 - Beacons : Decentralized data sharing via web based tool. 
--   Limitation: No privacy on data.
+##### Limitation: No privacy on data.
 
 #### Solve: Purpose COINSTAC platform which is dynamic decentralized platform.  
 - COINSTAC does fill missing data.
