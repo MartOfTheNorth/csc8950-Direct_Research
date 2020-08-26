@@ -202,13 +202,22 @@ https://www.frontiersin.org/articles/10.3389/fnins.2016.00365/full
 Citation: Gazula H, Baker BT, Damaraju E, Plis SM, Panta SR, Silva RF and Calhoun VD (2018) Decentralized Analysis of Brain Imaging Data: Voxel-Based Morphometry and Dynamic Functional Network Connectivity. Front. Neuroinform. 12:55. doi: 10.3389/fninf.2018.00055 
 https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
 
-#### Goal: 
+#### Goal: Purpose two decentralized algorithms; 
+- 1) Decentralized regression algorithem for performing VBM (Voxel-Based Morphometry) on sMRI (structure Magnetic Resonance Imaging)
+- 2) Decentralized dFNC (Dynamic Functional Network Connectivity) algorithem aka ddFNC in both;
+##### Spatial ICA (Independent Component Aanlysis) aka dgICA.
+##### K-Means aka dK-Means
+- Compare those two decentralized algorithem with centralized algorithem (pooled data)
+
 #### Solve: 
-- 
+- ENIGMA (2017) and ViPAR (2015) allows locally data processing, however combining the meta-analysis results among mutlitple sites is challenge.
+- To mention that COINSTAC (2016) has solution for this problem while using different algorithms.
+
 #### Methodology: 
 ##### 
 
-#### Result
+#### Result: Decentralized algorithms provide similar result as centralized in the same data.
+
 #### Analysis and Discussion
 
 
