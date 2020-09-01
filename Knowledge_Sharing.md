@@ -13,3 +13,6 @@ https://github.com/bids-standard/bids-starter-kit
 
 Differential Privacy - Simply Explained
 https://www.youtube.com/watch?v=gI0wk1CXlsQ
+
+Dr. Lucina Uddin' talk on Aug 28th entitled: "Brain dynamics and flexible behaviors"
+https://youtu.be/UsIHBOrabc4
