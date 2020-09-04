@@ -220,7 +220,24 @@ https://www.frontiersin.org/articles/10.3389/fninf.2018.00055/full
 
 #### Analysis and Discussion
 
+### Part 2.1.8.  Large scale collaboration with autonomy: Decentralized Data ICA. (Baker et al., 2015)
+Citation: 
 
+#### Goal: Purpose two decentralized algorithms; 
+
+#### Solve: 
+
+#### Methodology: 
+
+##### 
+### Part 2.1.9.  Decentralized dynamic functional network connectivity: state analysis in collaborative settings. (Baker et al., 2020)
+Citation: 
+
+#### Goal: Purpose two decentralized algorithms; 
+
+#### Solve: 
+
+#### Methodology: 
 
 
 # Part 3 - Experiment
