@@ -23,9 +23,8 @@ https://www.frontiersin.org/articles/10.3389/fgene.2015.00276/full
 An introductory review of parallel independent component analysis (p-ICA) and a guide to applying p-ICA to genetic data and imaging phenotypes to identify disease-associated biological pathways and systems in common complex disorders
 https://www.frontiersin.org/articles/10.3389/fgene.2015.00276/full
 
-
-
-
+Dr. Peter Bandettini — Mr. MRI
+https://irp.nih.gov/podcast/2020/09/dr-peter-bandettini-mr-mri
 
 
 
